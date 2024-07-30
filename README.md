@@ -7,9 +7,9 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
 4. If all 9 squares are full and neither player has 3 in a row, the game is considered a draw.
 # Gameplay:
-Player 1 (X): Marks an empty square with an X.
-Player 2 (O): Marks an empty square with an O.
-Players continue to alternate turns until one wins or the game ends in a draw.
+1. Player 1 (X): Marks an empty square with an X.
+2. Player 2 (O): Marks an empty square with an O.
+3. Players continue to alternate turns until one wins or the game ends in a draw.
 # Strategy:
 1. Try to create a situation where you have two possible winning moves in your next turn.
 2. Block your opponent’s attempts to create a row of three.
